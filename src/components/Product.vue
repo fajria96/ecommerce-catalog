@@ -233,7 +233,7 @@ button:hover {
   color: white;
 }
 /* phone */
-@media only screen and (min-width: 480px) {
+@media only screen and (max-width: 480px) {
   .product-wrapper {
     display: flex;
     align-items: center;
